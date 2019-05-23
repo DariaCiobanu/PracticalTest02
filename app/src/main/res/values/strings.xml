@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PracticalTest02</string>
+    <string name="cmd">CMD</string>
+    <string name="client_cmd">CMD</string>
+    <string name="server_port">Port</string>
+    <string name="connect">Connect</string>
+    <string name="server">Server</string>
+    <string name="client">Client</string>
+    <string name="go">GO</string>
+</resources>
